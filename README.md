@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> <a href="#"><img src="https://badges.pufler.dev/visits/ChristopherMorales/readme.md"></a>
+  Hi there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> 
 </h1>
 
 <p align="center" > I'm Christopher a Full-stack developer based in Puerto Rico 🇵🇷 👨‍💻 </p>
